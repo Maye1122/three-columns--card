@@ -112,7 +112,8 @@ div.item3 .learn{
 	.card{
 		display: block;
 		width: 18rem;
-		margin-left:18%;
+		margin-left:15%;
+		margin-right: 15%;
 		
 	}
 
